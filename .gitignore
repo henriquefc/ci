@@ -1,0 +1,3 @@
+.vagrant
+librarian/modules
+librarian/Puppetfile.lock
