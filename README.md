@@ -1,4 +1,4 @@
-ci
+Continuous Integration Environment (puppet)
 ==
 
-Continuous Integration Environment (puppet)
+Provisionamento do ambiente de CI com vagrant e puppet
